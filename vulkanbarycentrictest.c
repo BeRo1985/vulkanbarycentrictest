@@ -25,10 +25,11 @@
 // 3. This notice may not be removed or altered from any source distribution. 
 //
 /////////////////////////////////////////////////////////////////////////////////////
-// This example demonstrates the use of the VK_KHR_fragment_shader_barycentric
-// extension in Vulkan. The extension provides the Barycentric coordinates of
-// the fragment in the triangle. This example renders a simple triangle and
-// colors the fragments based on the Barycentric coordinates.
+// This example demonstrates the use of the `VK_KHR_fragment_shader_barycentric` 
+// extension in Vulkan. The extension provides the Barycentric coordinates of the 
+// fragment within the triangle. This example renders a simple triangle, coloring 
+// the fragments based on the Barycentric coordinates and adding a thick white 
+// border line around it.
 /////////////////////////////////////////////////////////////////////////////////////
 
 #include <SDL2/SDL.h>
