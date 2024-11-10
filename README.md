@@ -1,0 +1,2 @@
+# vulkanbarycentrictest
+A minimal Vulkan VK_KHR_fragment_shader_barycentric triangle example
