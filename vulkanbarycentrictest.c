@@ -853,7 +853,7 @@ void initVulkan(SDL_Window* window) {
 int main() {
     SDL_Init(SDL_INIT_VIDEO);
 
-    SDL_Window* window = SDL_CreateWindow("Vulkan Triangle", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIDTH, HEIGHT, SDL_WINDOW_VULKAN);
+    SDL_Window* window = SDL_CreateWindow("Vulkan VK_KHR_fragment_shader_barycentric example", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIDTH, HEIGHT, SDL_WINDOW_VULKAN);
 
     initVulkan(window);
 
