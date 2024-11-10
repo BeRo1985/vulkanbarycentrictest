@@ -34,6 +34,10 @@ Open the generated Visual Studio solution and build it.
 
 Open a command prompt and run the executable.
 
+# Screenshot
+
+![screenshot](screenshot.png)
+
 # License
 
 zlib see LICENSE file
